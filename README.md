@@ -27,3 +27,11 @@ collaboration for two reasons:
 Good luck out there!
 
 ![It's dangerous to go alone!](http://www.zeldauniverse.net/wp-content/uploads/2013/03/its-dangerous-to-go-alone-take-this.jpg)
+
+
+### Lectures
+
+#### P2W1D2 Clean JS
+* [pre-refactor](http://s3.amazonaws.com/dbc_socrates/lectures/clean-js.zip)
+* [refactored](http://s3.amazonaws.com/dbc_socrates/lectures/clean-js-refactored.zip)
+* [screenoverflow](http://screenoverflow.com/posts/30)

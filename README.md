@@ -1,3 +1,5 @@
+### Topics
+1. [Javascript](/javascript.md)
 ### What is this
 This is a Wisdom Garden which you, the Red Admirals, have been entrusted to
 grow.
